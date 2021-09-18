@@ -6,7 +6,7 @@
  * Description: Custom shipping methods for WooCommerce
  * Author: web-data.online
  * Requires at least: 4.0
- * Tested up to: 5.7
+ * Tested up to: 5.8.1
  *
  * Text Domain: woocommerce-custom-shipping
  * Domain Path: /lang/
