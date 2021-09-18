@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: WooCommerce Custom Shipping Methds\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: web-data.online\n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:246
+msgid "+ New row"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:189
+msgid "1) Select New Row"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:190
+msgid "2) In the unit field you can choose pricing based on length, width, height or weight."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:191
+msgid "3) In the \"Threshold\" field, set a threshold value for the pricing."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:192
+msgid "4) In the \"Price\" field, set the price for the threshold value. This price will be used when the selected pricing unit is below the threshold value."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:193
+msgid "5) Repeat the process as many times as you want to set different thresholds."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:233
+msgid "Allow all coupons"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:265
+msgid "Area Based Fee Settings"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:271
+msgid "Area Fee"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:292
+msgid "Area fee cities"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:610
+msgid "Availability"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:605
+msgid "Availability settings"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:412
+msgid "Billing Address"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:570
+msgid "Calculation type"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:588
+msgid "Choose calculation type for the shipping classes"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:663
+msgid "Choose countries for the availability."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:415
+msgid "Choose if destination should be calculated by billing or shipping address. By default, shipping address will be used."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:391
+msgid "Choose your units for the calculated distance."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:648
+msgid "Chosen countries"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:212
+msgid "Coupon code"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:206
+msgid "Coupon settings"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:313
+msgid "Distance Based Fee Settings"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:329
+msgid "Divider"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:467
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:488
+msgid "Don´t hide"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:297
+msgid "Enter here the cities, separated by commas, that are affected by the area fee defined above."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:356
+msgid "Enter the distance after the fee will be added. If distance is lower than this, only the shipping costs will be used without a distance based fee. Leave empty to disable this feature."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:426
+msgid "Enter the from address, where the distance will be calucalted. If empty, the address set in WooCommerce settings will be used. Make also sure your address can be discovered by the Google API. You can try to locate your address at Google Maps service: <a href=\"https://www.google.com/maps\" target=\"_blank\">https://www.google.com/maps</a>"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:448
+msgid "Enter the from city, where the distance will be calucalted. If empty, the city set in WooCommerce settings will be used."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:437
+msgid "Enter the from zipcode, where the distance will be calucalted. If empty, the zipcode set in WooCommerce settings will be used."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:367
+msgid "Enter the maximum distance for the shipping method, that can be used with the fee. Leave empty to disable this feature."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:217
+msgid "Enter this coupon code for free shipping. If you want to enter more than one code, separate the codes with a comma."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:334
+msgid "Enter your divider number here. Price will be calculated by dividing the distance, and then multiplicated by the price."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:345
+msgid "Enter your price for the calculated distance."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:54
+msgid "Fixed price"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:185
+msgid "Free Shipping Limit"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:505
+msgid "Google API Log"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:318
+msgid "Google API key"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:164
+msgid "Handling costs"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:466
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:487
+msgid "Hide"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:454
+msgid "Hide if destination cannot be found"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:475
+msgid "Hide if limits are exceeded"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:469
+msgid "If destination cannot be found, should the shipping method be hided?"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:509
+msgid "If distance based fee isn´t working, see the log here from the Google API to fix any issues."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:190
+msgid "If given, shipping charges will no longer be added when the cart products exceed this amount."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:490
+msgid "If minimum or maximum limit is reached, should the shipping method be hided?"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:248
+msgid "If selected, coupon codes do not need to be added separately, but free shipping is allowed on any coupon for which it is defined in WooCommerce - Coupons and set to be used for free shipping."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:59
+msgid "If you want to use fixed base price for the shipping, please enter it here. Leave this field empty to disable this feature."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:388
+msgid "Kilometers"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:75
+msgid "Limit settings"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:362
+msgid "Maximum distance"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:122
+msgid "Maximum height"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:80
+msgid "Maximum length"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:143
+msgid "Maximum weight"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:101
+msgid "Maximum width"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:389
+msgid "Miles"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:351
+msgid "Minimum distance"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:692
+msgid "No"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:630
+msgid "Not shipped to the chosen countries"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:421
+msgid "Origin address"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:443
+msgid "Origin city"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:432
+msgid "Origin zip"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:585
+msgid "Per class: Charge shipping for each shipping class individually"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:586
+msgid "Per order: Charge shipping for the most expensive shipping class"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:205
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:340
+msgid "Price"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:246
+msgid "Remove chosen rows"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:632
+msgid "Select shipping countries."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:323
+msgid "Set Google API key"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:276
+msgid "Set area fee"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:169
+msgid "Set handling costs."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:127
+msgid "Set maximum height, after which the shipping method will no longer be displayed at checkout. Dimensions should be entered in the same unit of measurement as set in WooCommerce!"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:85
+msgid "Set maximum length, after which the shipping method will no longer be displayed at checkout. Dimensions should be entered in the same unit of measurement as set in WooCommerce!"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:148
+msgid "Set maximum weight, after which the shipping method will no longer be displayed at checkout. Dimensions should be entered in the same unit of measurement as set in WooCommerce!"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:106
+msgid "Set maximum width, after which the shipping method will no longer be displayed at checkout. Dimensions should be entered in the same unit of measurement as set in WooCommerce!"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:38
+msgid "Set the shipping method´s name the customer sees on the checkout page."
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:628
+msgid "Shipped to all countries"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:629
+msgid "Shippied to only chosen countries"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:413
+msgid "Shipping Address"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:529
+msgid "Shipping Class Settings"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:33
+msgid "Shipping methods name"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:679
+msgid "Taxable"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:694
+msgid "Taxable?"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:204
+msgid "Threshold"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:397
+msgid "To Address"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:203
+msgid "Unit"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:183
+msgid "Unit Based Shipping Settings"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:373
+msgid "Units"
+msgstr ""
+
+#. Text in function
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-method-constructor.php:1
+msgid "WooCommerce Custom Shipping Method"
+msgstr ""
+
+#. Text in echo
+#: wb-custom-shipping/includes/class-woocommerce-custom-shipping-settings-table.php:691
+msgid "Yes"
+msgstr ""
